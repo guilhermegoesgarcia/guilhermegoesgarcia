@@ -18,5 +18,13 @@ I'm Guilherme, Here you can see my projects at moments.
 # API
 #### [DjangoRest](https://github.com/guilhermegoesgarcia/AluraFlix.API-DjangoRest)
 
+
 # Robotic Process Automation
 #### [RPA](https://github.com/guilhermegoesgarcia/RPA_Automatizando-preenchimento-de-formulario-Web)
+
+# Automation Testing
+#### [Test App](https://github.com/guilhermegoesgarcia/TestesAutomatizados)
+
+# Python
+#### [Validation Data](https://github.com/guilhermegoesgarcia/ValidandoDados_Python)
+
