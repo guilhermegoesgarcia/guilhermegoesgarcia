@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**guilhermegoesgarcia/guilhermegoesgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Well come!!
+I'm Guilherme, Here you can see my projects at moments.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermeggarcia/)](https://www.linkedin.com/in/guilhermeggarcia/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@guilhermegoesgarcia)](https://medium.com/@guilhermegoesgarcia)
+[![Kaggle Badge](https://img.shields.io/badge/-kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/gui230)](https://www.kaggle.com/gui230)
+
+
+# Power Bi
+ #### [Dashboard marketing](https://github.com/guilhermegoesgarcia/Power_BI_marketing)
+ #### [Dashboard logistics](https://github.com/guilhermegoesgarcia/Power_BI_logistica)
+ #### [Dashboard financial - under construction](https://github.com/guilhermegoesgarcia/Power_BI_financeiro)
+ 
+ 
+# API
+
+#### []()
