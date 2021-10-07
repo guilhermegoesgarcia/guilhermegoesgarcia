@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Well come!!
+Welcome!!
 I'm Guilherme, Here you can see my projects.
 
 
@@ -9,7 +9,7 @@ I'm Guilherme, Here you can see my projects.
 [![Kaggle Badge](https://img.shields.io/badge/-kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/gui230)](https://www.kaggle.com/gui230)
 
 
-## Power Bi
+## Power BI
  ##### ● [Dashboard marketing](https://github.com/guilhermegoesgarcia/Power_BI_marketing)
  ##### ● [Dashboard logistics](https://github.com/guilhermegoesgarcia/Power_BI_logistica)
  ##### ● [Dashboard financial - under construction](https://github.com/guilhermegoesgarcia/Power_BI_financeiro)
