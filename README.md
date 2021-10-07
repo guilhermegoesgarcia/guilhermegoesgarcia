@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Well come!!
-I'm Guilherme, Here you can see my projects at moments.
+I'm Guilherme, Here you can see my projects.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermeggarcia/)](https://www.linkedin.com/in/guilhermeggarcia/)
