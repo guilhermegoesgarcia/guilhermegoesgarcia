@@ -10,21 +10,21 @@ I'm Guilherme, Here you can see my projects.
 
 
 ## Power Bi
- ##### [Dashboard marketing](https://github.com/guilhermegoesgarcia/Power_BI_marketing)
- ##### [Dashboard logistics](https://github.com/guilhermegoesgarcia/Power_BI_logistica)
- ##### [Dashboard financial - under construction](https://github.com/guilhermegoesgarcia/Power_BI_financeiro)
+ ##### ● [Dashboard marketing](https://github.com/guilhermegoesgarcia/Power_BI_marketing)
+ ##### ● [Dashboard logistics](https://github.com/guilhermegoesgarcia/Power_BI_logistica)
+ ##### ● [Dashboard financial - under construction](https://github.com/guilhermegoesgarcia/Power_BI_financeiro)
  
  
 ## API
-##### [DjangoRest](https://github.com/guilhermegoesgarcia/AluraFlix.API-DjangoRest)
+##### ● [DjangoRest](https://github.com/guilhermegoesgarcia/AluraFlix.API-DjangoRest)
 
 
 ## Robotic Process Automation
-##### [RPA](https://github.com/guilhermegoesgarcia/RPA_Automatizando-preenchimento-de-formulario-Web)
+##### ● [RPA](https://github.com/guilhermegoesgarcia/RPA_Automatizando-preenchimento-de-formulario-Web)
 
 ## Automation Testing
-##### [Test App](https://github.com/guilhermegoesgarcia/TestesAutomatizados)
+##### ● [Test App](https://github.com/guilhermegoesgarcia/TestesAutomatizados)
 
 ## Python
-##### [Validation Data](https://github.com/guilhermegoesgarcia/ValidandoDados_Python)
+##### ● [Validation Data](https://github.com/guilhermegoesgarcia/ValidandoDados_Python)
 
